@@ -1,4 +1,4 @@
-package com.acme;
+package org.acme;
 
 import io.quarkus.runtime.Quarkus;
 import io.quarkus.runtime.QuarkusApplication;
